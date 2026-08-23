@@ -81,41 +81,55 @@ This experience is helping me bridge the gap between **building applications** a
 > **From writing features to understanding how complete systems are built, deployed, maintained, and scaled.**
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🏠 Housify Realty
 
 **Production-oriented real-estate SaaS platform**
 
-An end-to-end real-world SaaS application where I've gained hands-on experience working across full-stack development, backend systems, application architecture, moderation workflows, deployment, and DevOps practices.
+An end-to-end real-world SaaS platform where I contribute to full-stack engineering, backend systems, application architecture, moderation workflows, deployment, and DevOps practices.
 
-**Focus Areas**
+**What I Work On**
 
-- Full-Stack Engineering
-- Backend & API Development
-- Database Systems
-- Authentication & Authorization
-- Property & Image Moderation
-- Production Architecture
-- DevOps & Deployment
+- 💻 Full-Stack Application Development
+- 🔌 Backend & REST API Engineering
+- 🗄️ Database-Driven Systems
+- 🔐 Authentication & Authorization
+- 🛡️ Property & Image Moderation
+- ⚡ Real-Time Application Architecture
+- 🏗️ Production Application Architecture
+- ⚙️ DevOps & Deployment
+- 📱 Responsive & Scalable Application Design
+
+**Technology**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Vite` `Git` `GitHub`
 
 🔗 **Live Platform:** https://housifyrealty.com/
 
+---
+
 ### 🎬 Movie Recommender System
 
-**Content-based movie recommendation system built with Python and Streamlit**
+**Content-based movie recommendation system**
 
 A machine-learning application that recommends similar movies using content-based similarity and integrates the TMDB API to retrieve movie information and posters.
 
-**Focus Areas**
+**What I Built**
 
-- Python
-- Machine Learning
-- Recommendation Systems
-- Similarity-Based Modeling
-- API Integration
-- Streamlit
-- Cloud Deployment
+- 🤖 Content-Based Recommendation System
+- 🧮 Similarity-Based Movie Matching
+- 🔌 TMDB API Integration
+- 🖼️ Dynamic Movie Poster Retrieval
+- 🐍 Python-Based ML Pipeline
+- 🌐 Streamlit Web Application
+- ☁️ Cloud Deployment
+
+**Technology**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit` `TMDB API`
 
 🔗 **Live Demo:** https://movie-recommender-system39.streamlit.app/
 
@@ -221,20 +235,13 @@ A machine-learning application that recommends similar movies using content-base
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=pragyanverma39&show_icons=true&theme=github_dark&hide_border=true"
-  height="180"
-  alt="Pragyan Verma's GitHub Statistics"
-/>
+<img src="./profile/stats.svg" alt="Pragyan Verma's GitHub Statistics" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyanverma39&layout=compact&theme=github_dark&hide_border=true"
-  height="180"
-  alt="Pragyan Verma's Most Used Languages"
-/>
+<br/><br/>
+
+<img src="./profile/top-langs.svg" alt="Pragyan Verma's Most Used Languages" />
 
 </div>
----
 
 ## 🔥 Contribution Streak
 
