@@ -80,10 +80,10 @@ My work spans:
 This experience is helping me bridge the gap between **building applications** and **engineering production systems**.
 
 > **From writing features to understanding how complete systems are built, deployed, maintained, and scaled.**
+
 ---
 
-
-## 🚀 Featured Projects
+## 💼 Professional Work
 
 ### 🏠 Housify Realty
 
@@ -110,6 +110,8 @@ An end-to-end real-world SaaS platform where I contribute to full-stack engineer
 🔗 **Live Platform:** https://housifyrealty.com/
 
 ---
+
+## 🚀 Featured Projects
 
 ### 🎬 Movie Recommender System
 
@@ -291,26 +293,6 @@ Design AI Systems
 <br/><br/>
 
 <img src="./profile/top-langs.svg" alt="Pragyan Verma's Most Used Languages" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=pragyanverma39&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyanverma39&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
