@@ -58,6 +58,7 @@ AI Systems Architecture
 
 </div>
 
+---
 
 ## 🏢 Experience
 
@@ -81,7 +82,6 @@ This experience is helping me bridge the gap between **building applications** a
 > **From writing features to understanding how complete systems are built, deployed, maintained, and scaled.**
 ---
 
----
 
 ## 🚀 Featured Projects
 
@@ -135,13 +135,31 @@ A machine-learning application that recommends similar movies using content-base
 
 ---
 
+## 🎓 Education
+
+### B.Tech — Artificial Intelligence & Data Science
+
+Currently pursuing a **B.Tech in Artificial Intelligence & Data Science**, with a focus on building strong foundations across software engineering, machine learning, and intelligent systems.
+
+**Core Areas**
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Engineering
+- 🌐 Full-Stack Development
+- 🗄️ Database Systems
+- ⚙️ DevOps & Cloud Infrastructure
+- 🧠 ML Systems & MLOps
+- 📊 Data Science
+
+---
+
 ## ⚙️ Technology Stack
 
 ### 💻 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" />
 
 </div>
 
@@ -163,7 +181,7 @@ A machine-learning application that recommends similar movies using content-base
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
 </p>
@@ -231,6 +249,39 @@ A machine-learning application that recommends similar movies using content-base
 
 ---
 
+## 🧠 Engineering Focus
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| 💻 Software Engineering | Production-oriented application development |
+| 🌐 Full-Stack Engineering | Frontend, backend, APIs & databases |
+| ⚙️ DevOps | CI/CD, deployment & infrastructure |
+| 🤖 Machine Learning | ML models, data pipelines & intelligent applications |
+| 🔄 MLOps | Model deployment, automation & ML infrastructure |
+| 🏗️ System Architecture | Designing scalable and maintainable systems |
+| 🧠 AI Systems | Connecting software engineering, ML & AI |
+
+</div>
+
+### My Direction
+
+```text
+Build Applications
+       ↓
+Engineer Production Systems
+       ↓
+Automate Infrastructure
+       ↓
+Deploy Machine Learning
+       ↓
+Build MLOps Pipelines
+       ↓
+Design AI Systems
+```
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -242,6 +293,8 @@ A machine-learning application that recommends similar movies using content-base
 <img src="./profile/top-langs.svg" alt="Pragyan Verma's Most Used Languages" />
 
 </div>
+
+---
 
 ## 🔥 Contribution Streak
 
